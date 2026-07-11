@@ -1,0 +1,25 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+bin/
+obj/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*~

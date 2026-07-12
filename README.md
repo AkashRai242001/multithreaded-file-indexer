@@ -66,6 +66,7 @@ g++ -std=c++17 -pthread -o examples/02c_lockguard examples/02c_lock_guard.cpp
 ```
 
 ## 📁 Repository Structure
+```text
 multithreaded-file-indexer/
 ├── docs/           # Design docs, learning journey, benchmarks
 ├── src/            # Main indexer implementation (in progress)
